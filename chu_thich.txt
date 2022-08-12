@@ -1,0 +1,5 @@
+project tạo giao diện đăng nhập cơ bản: 
+đọc dữ liệu đăng nhập từ file csv
+so sasnh dữ liệu nhập vào với dữ liệu file 
+nếu đúng tài khoản ật khẩu thì xuất 1
+sai thì xuất 0
